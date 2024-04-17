@@ -2,7 +2,6 @@ package guru.qa27;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello niggers!!!!!!!!!!!" +
-                "Hello bastards!!!!");
+        System.out.println("Hello bastards");
     }
 }
